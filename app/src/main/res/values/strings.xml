@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lomoljo</string>
+    <string name="first_name">First Name</string>
+    <string name="full_name_display">FULL NAME DISPLAY</string>
+    <string name="button">Button</string>
+    <string name="first_names">First Name</string>
+    <string name="full_name_displays">full Name display</string>
+    <string name="buttons">Button</string>
+</resources>
